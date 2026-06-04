@@ -1,9 +1,10 @@
 import React from 'react';
-import './AppStyle.css'
+import Appfazt from './Appfazt';
 
 function App() {
   return (
     <div className="App">
+      <Appfazt title="React and Typescript" />
     </div>
   );
 }
